@@ -1,12 +1,10 @@
 # This is one of the Frontend coding challenges from geektrust.in website
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-
 # [Admin UI](https://www.geektrust.in/coding-problem/frontend/adminui)
 
 You work at a startup that is building an interface for admins to see and delete users. The users will be provided via an API. Your job is to build out a working UI. See image below for reference.
 
-(https://github.com/medasaicharan6/AdminUI/blob/master/project.png)
+![Image](https://github.com/medasaicharan6/AdminUI/blob/master/project.png)
 
 These are the requirements:
 
