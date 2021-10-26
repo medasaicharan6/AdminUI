@@ -1,6 +1,6 @@
 # This is one of the Frontend coding challenges from geektrust.in website
 
-[I have also hosted the below challenge in github Pages(https://medasaicharan6.github.io/AdminUI/)] (https://medasaicharan6.github.io/AdminUI/)
+# [I have also hosted the below challenge in github Pages at "https://medasaicharan6.github.io/AdminUI/"] (https://medasaicharan6.github.io/AdminUI/)
 
 
 ## [The Challenge: Admin UI](https://www.geektrust.in/coding-problem/frontend/adminui)
