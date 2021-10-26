@@ -1,6 +1,9 @@
 # This is one of the Frontend coding challenges from geektrust.in website
 
-# [Admin UI](https://www.geektrust.in/coding-problem/frontend/adminui)
+[I have also hosted the below challenge in github Pages(https://medasaicharan6.github.io/AdminUI/)] (https://medasaicharan6.github.io/AdminUI/)
+
+
+## [The Challenge: Admin UI](https://www.geektrust.in/coding-problem/frontend/adminui)
 
 You work at a startup that is building an interface for admins to see and delete users. The users will be provided via an API. Your job is to build out a working UI. See image below for reference.
 
